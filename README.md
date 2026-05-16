@@ -196,3 +196,131 @@ NimmaGuru/
 ├── settings.gradle.kts
 └── README.md
 ```
+# 📸 Screenshots
+
+## 🏠 Home Screen
+- Access Government Schemes
+- Access Government Projects
+
+<p align="center">
+  <img src="screenshots/home_screen.png" width="250"/>
+</p>
+
+---
+
+## 📋 Scheme List Screen
+- Browse welfare schemes
+- Scheme categories
+- Quick access cards
+
+<p align="center">
+  <img src="screenshots/scheme_list.png" width="250"/>
+</p>
+
+---
+
+## 📄 Scheme Detail Screen
+- Eligibility criteria
+- Benefits
+- Required documents
+
+<p align="center">
+  <img src="screenshots/scheme_detail.png" width="250"/>
+</p>
+
+---
+
+## 🚧 Project Tracking Screen
+- Live project progress
+- Milestone tracking
+- Budget details
+
+<p align="center">
+  <img src="screenshots/project_tracking.png" width="250"/>
+</p>
+
+---
+
+## 🌐 Kannada Support
+- Full Kannada UI support
+
+<p align="center">
+  <img src="screenshots/kannada_support.png" width="250"/>
+</p>
+
+---
+
+# 🚀 Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/suhail074/NimmaGuru.git
+```
+
+---
+
+## Open in Android Studio
+
+1. Open Android Studio  
+2. Select **"Open Project"**  
+3. Choose the project folder  
+4. Sync Gradle  
+5. Run the application  
+
+---
+
+# 📱 Minimum Requirements
+
+- Android 7.0+
+- SDK 24+
+- Internet Connection (optional for future updates)
+
+---
+
+# 🎯 Objective
+
+The objective of NimmaGuru is to:
+
+- Connect students with mentors
+- Provide educational guidance
+- Improve accessibility for learning resources
+- Help users track mentoring sessions
+- Simplify mentor-student interaction
+
+---
+
+# 🔮 Future Enhancements
+
+- Firebase Integration
+- Real-time Database
+- User Authentication
+- Online Session Booking
+- Voice Assistant
+- AI Chat Support
+- Push Notifications
+- Offline Mode
+
+---
+
+# 👨‍💻 Developed By
+
+**Mr Khan**
+
+---
+
+# 📜 License
+
+This project is created for educational and internship purposes.
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
+
+---
+
+# 📖 Inspiration
+
+> “Technology should not only serve cities, but also empower villages.”
