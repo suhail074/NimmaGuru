@@ -203,9 +203,7 @@ NimmaGuru/
 - Quick access to student and mentor sections
 - Modern Jetpack Compose UI
 
-<p align="center">
-  <img src="screenshots/home_screen.png" width="250"/>
-</p>
+
 
 ---
 
@@ -214,9 +212,7 @@ NimmaGuru/
 - Session details and expertise
 - Mentor profile management
 
-<p align="center">
-  <img src="screenshots/mentor_profile.png" width="250"/>
-</p>
+
 
 ---
 
@@ -225,9 +221,7 @@ NimmaGuru/
 - Learning preferences and details
 - Personalized experience
 
-<p align="center">
-  <img src="screenshots/student_profile.png" width="250"/>
-</p>
+
 
 ---
 
@@ -236,9 +230,6 @@ NimmaGuru/
 - Browse available mentors
 - Quick filtering and navigation
 
-<p align="center">
-  <img src="screenshots/search_screen.png" width="250"/>
-</p>
 
 ---
 
@@ -247,9 +238,6 @@ NimmaGuru/
 - Schedule and manage meetings
 - Organized learning activities
 
-<p align="center">
-  <img src="screenshots/calendar_screen.png" width="250"/>
-</p>
 
 ---
 
@@ -258,9 +246,7 @@ NimmaGuru/
 - User-friendly interface
 - Easy accessibility for regional users
 
-<p align="center">
-  <img src="screenshots/language_support.png" width="250"/>
-</p>
+
 
 ---
 
