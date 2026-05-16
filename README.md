@@ -199,8 +199,9 @@ NimmaGuru/
 # 📸 Screenshots
 
 ## 🏠 Home Screen
-- Access Government Schemes
-- Access Government Projects
+- Browse mentors and educational guidance
+- Quick access to student and mentor sections
+- Modern Jetpack Compose UI
 
 <p align="center">
   <img src="screenshots/home_screen.png" width="250"/>
@@ -208,44 +209,57 @@ NimmaGuru/
 
 ---
 
-## 📋 Scheme List Screen
-- Browse welfare schemes
-- Scheme categories
-- Quick access cards
+## 👨‍🏫 Mentor Profile Screen
+- View mentor information
+- Session details and expertise
+- Mentor profile management
 
 <p align="center">
-  <img src="screenshots/scheme_list.png" width="250"/>
+  <img src="screenshots/mentor_profile.png" width="250"/>
 </p>
 
 ---
 
-## 📄 Scheme Detail Screen
-- Eligibility criteria
-- Benefits
-- Required documents
+## 🎓 Student Profile Screen
+- Student profile management
+- Learning preferences and details
+- Personalized experience
 
 <p align="center">
-  <img src="screenshots/scheme_detail.png" width="250"/>
+  <img src="screenshots/student_profile.png" width="250"/>
 </p>
 
 ---
 
-## 🚧 Project Tracking Screen
-- Live project progress
-- Milestone tracking
-- Budget details
+## 🔍 Search Screen
+- Search mentors easily
+- Browse available mentors
+- Quick filtering and navigation
 
 <p align="center">
-  <img src="screenshots/project_tracking.png" width="250"/>
+  <img src="screenshots/search_screen.png" width="250"/>
 </p>
 
 ---
 
-## 🌐 Kannada Support
-- Full Kannada UI support
+## 📅 Calendar Screen
+- Track mentoring sessions
+- Schedule and manage meetings
+- Organized learning activities
 
 <p align="center">
-  <img src="screenshots/kannada_support.png" width="250"/>
+  <img src="screenshots/calendar_screen.png" width="250"/>
+</p>
+
+---
+
+## 🌐 Multi Language Support
+- Kannada language support
+- User-friendly interface
+- Easy accessibility for regional users
+
+<p align="center">
+  <img src="screenshots/language_support.png" width="250"/>
 </p>
 
 ---
@@ -274,6 +288,7 @@ git clone https://github.com/suhail074/NimmaGuru.git
 
 - Android 7.0+
 - SDK 24+
+- Android Studio Hedgehog or above
 - Internet Connection (optional for future updates)
 
 ---
@@ -282,30 +297,30 @@ git clone https://github.com/suhail074/NimmaGuru.git
 
 The objective of NimmaGuru is to:
 
-- Connect students with mentors
-- Provide educational guidance
-- Improve accessibility for learning resources
-- Help users track mentoring sessions
-- Simplify mentor-student interaction
+- Connect students with experienced mentors
+- Provide career and educational guidance
+- Improve mentor-student interaction
+- Simplify session management
+- Create an easy-to-use learning platform
 
 ---
 
 # 🔮 Future Enhancements
 
 - Firebase Integration
-- Real-time Database
+- Real-time Chat System
 - User Authentication
 - Online Session Booking
-- Voice Assistant
-- AI Chat Support
+- AI Chat Assistant
 - Push Notifications
-- Offline Mode
+- Video Calling Feature
+- Offline Support
 
 ---
 
 # 👨‍💻 Developed By
 
-**Mr Khan**
+**Syed Sohail Mehdi**
 
 ---
 
@@ -316,6 +331,14 @@ This project is created for educational and internship purposes.
 ---
 
 # ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
+
+---
+
+# 📖 Inspiration
+
+> “Technology can bridge the gap between students and opportunities.”
 
 If you like this project, give it a ⭐ on GitHub.
 
